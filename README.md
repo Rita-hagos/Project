@@ -11,3 +11,9 @@ Run time = 0(N)
 I keep track of the loqest prcie so for each price, you can calculate the profit sold that day - Runtime: 0(N)
 
 ##task 4
+##task 5
+The temperature ranged from 97 to 99 so we can use counting sort. And multiply it by 10 so, it doesn't get complicated with decimals and work only with full integers.
+
+##task 6
+Start counting when the number is the beginning of a sequence. 
+so Runtime: 0(N)
